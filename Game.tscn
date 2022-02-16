@@ -14,9 +14,9 @@ font_data = ExtResource( 4 )
 script = ExtResource( 1 )
 width = 4
 height = 5
-xStart = 96
+xStart = 82
 yStart = 832
-offset = 128
+offset = 65
 background = ExtResource( 2 )
 
 [node name="HUD" type="Control" parent="."]
